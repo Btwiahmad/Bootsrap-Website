@@ -1,0 +1,21 @@
+h1{
+  font-family: "Dancing Script", cursive;
+  font-style: normal;
+}
+.carousel-item img{
+    width: auto;
+    height: 500px;
+    object-fit: fill;
+}
+#profile{
+    height: 70vh;
+    width: auto;
+}
+.team img{
+    height: 200px;
+    width: auto;
+}
+#end{
+    max-height: 500px;
+    /* width: 50%; */
+}
